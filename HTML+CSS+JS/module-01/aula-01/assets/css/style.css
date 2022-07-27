@@ -1,0 +1,20 @@
+.btn {
+    padding: 15px;
+    font-size: 16px;
+    background: #2980b9;
+    border: solid 1px #2980b9;
+    border-radius: 5px;
+    color: #fff;
+    box-shadow: 1px 1px 10px rgb(0 0 0 / 10%);
+    cursor: pointer;
+}
+
+.inputText {
+    padding: 15px;
+    font-size: 16px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 10px rgb(0 0 0 / 10%);
+    outline: none;
+    border: solid 1px #cecece;
+}
+
